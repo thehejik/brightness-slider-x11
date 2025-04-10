@@ -1,0 +1,8 @@
+{
+  "uuid": "brightness-slider-x11@thehejik",
+  "name": "Brightness Slider",
+  "description": "Adjust screen brightness using xrandr",
+  "shell-version": ["48"],
+  "version": 1,
+  "type": "module"
+}
