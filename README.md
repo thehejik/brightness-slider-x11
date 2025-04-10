@@ -30,8 +30,9 @@ cp brightness-slider-x11/* ~/.local/share/gnome-shell/extensions/brightness-slid
 ```
 
 ### 3. Enable the Extension
+- Enable the Extension by running `gnome-extensions enable brightness-slider-x11@thehejik`
+- or use the GNOME Extensions app to enable the "Brightness Slider" extension.
 - Restart GNOME Shell by pressing `Alt + F2`, typing `r`, and pressing Enter (on X11).
-- Open the GNOME Extensions app or use the GNOME Extensions to enable the "Brightness Slider" extension.
 
 ## Usage
 
